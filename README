@@ -1,0 +1,25 @@
+= rumbleboard -- because in the heat of the rumble you want to see blood
+
+rumbleboard is a sinatra app to bring the competition of RailsRumble to a spectator audience. 
+
+== Scorekeeping
+
+RumbleBoard keeps score via a set of carefully chosen metrics that have been scientifically proven to be accurate under several blind and a handful of drunk studies.
+
+* First team to respond to http request on their subdomain 
+ 500 points
+ 
+* First team to develop user interaction 
+
+ 500 points
+ 
+* digital asset depth
+ 10 points per mg
+
+
+
+Created by Matthew jording
+
+Released under the MIT License: http://www.opensource.org/licenses/mit-license.php
+
+http://rumbleboard.basura.in
